@@ -22,7 +22,7 @@
 ### App Walkthough GIF
  
 
-https://submissions.us-east-1.linodeobjects.com/android_university/tPnB9iRd.gif
+https://submissions.us-east-1.linodeobjects.com/android_university/11-M0inF.gif
 
 ### Notes
 
